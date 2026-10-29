@@ -518,7 +518,7 @@ if predecir:
 
 st.markdown("""
 <div class="footer-card">
-| juan guillermo lopez |
+| Juan Guillermo Lopez |
 Proyecto de Analítica Aplicada |
 Universidad de La Sabana
 <br><br>
