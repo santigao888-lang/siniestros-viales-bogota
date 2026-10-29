@@ -518,13 +518,12 @@ if predecir:
 
 st.markdown("""
 <div class="footer-card">
-| Andres Felipe Cardona Ortegon |
+| juan guillermo lopez |
 Proyecto de Analítica Aplicada |
 Universidad de La Sabana
 <br><br>
 Integrantes:
-<span>Tomás González</span> •
-<span>Nicolás Castillo</span> •
-<span>Ana Rodríguez</span>
+<span>Simon Giraldo</span> •
+<span>Santiago Gaona</span> •
 </div>
 """, unsafe_allow_html=True)
